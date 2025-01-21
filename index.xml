@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>kabynebylo-3</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="Fistachka" repo="elochka-two"/>
   <readme>
     <ru>30bb935fc17be0af6d1279eda903613ee37246e8adbe290778dd84ef39fce319</ru>
@@ -187,12 +187,12 @@
     <tonalities>12</tonalities>
     <video name="32t.mp4" size="786176" type="video/mp4" volume="0.5">b0097a1fa1febbbe71224028ce736c8376af845723b56e6c88774869eb9f99cb</video>
     <notes>
-      <note number="1" values="5" ticks="55" durationTicks="70" ppq="192" velocity="0.976"/>
-      <note number="2" values="5" ticks="154" durationTicks="88" ppq="192" velocity="0.984"/>
-      <note number="3" values="58" ticks="258" durationTicks="98" ppq="192" velocity="0.858"/>
-      <note number="4" values="79" ticks="372" durationTicks="84" ppq="192" velocity="0.874"/>
-      <note number="5" values="28" ticks="464" durationTicks="137" ppq="192" velocity="0.921"/>
-      <note number="6" values="18" ticks="557" durationTicks="98" ppq="192" velocity="0.89"/>
+      <note number="1" values="5" ticks="60" durationTicks="70" ppq="192" velocity="0.976"/>
+      <note number="2" values="5" ticks="144" durationTicks="88" ppq="192" velocity="0.984"/>
+      <note number="3" values="58" ticks="228" durationTicks="156" ppq="192" velocity="0.807"/>
+      <note number="4" values="79" ticks="426" durationTicks="168" ppq="192" velocity="0.852"/>
+      <note number="5" values="28" ticks="528" durationTicks="147" ppq="192" velocity="0.887"/>
+      <note number="6" values="18" ticks="624" durationTicks="192" ppq="192" velocity="0.8"/>
     </notes>
   </exercise>
   <exercise number="13">
